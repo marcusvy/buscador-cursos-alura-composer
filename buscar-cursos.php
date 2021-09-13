@@ -5,7 +5,7 @@ use App\Buscador;
 use GuzzleHttp\Client;
 use Symfony\Component\DomCrawler\Crawler;
 
-require __DIR__ . '/vendor/autoload.php';
+require 'vendor/autoload.php';
 
 
 $client = new Client(['verify' => false]);
