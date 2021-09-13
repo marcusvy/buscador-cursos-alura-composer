@@ -1,5 +1,5 @@
 {
-    "name": "marcu/composer",
+    "name": "marcusvy/buscador-cursos-alura-composer",
     "require": {
         "guzzlehttp/guzzle": "^7.3",
         "symfony/dom-crawler": "^5.3",
